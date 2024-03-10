@@ -3,10 +3,10 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;Computer+Science+Student;"></a>
 </p>
-<br>
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<br>
+ <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+
 
 - A passionate Self-taught Front-end developer
 - I dedicate my spare time to practicing Judo.
@@ -23,11 +23,11 @@
 <p align="center">
 
 - **Languages**:
-    ![.Net](https://img.shields.io/badge/.Net-592ac9)
-    ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
+  <br><br>
+    ![.Net](https://img.shields.io/badge/.Net-592ac9?style=for-the-badge&logo=java&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<br>   
     
 - **Front-End Development**:
 
@@ -55,7 +55,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+<div align="center" >
 
   <a href="https://github.com/Hearly98/">
   <img src="https://github-readme-stats.vercel.app/api?username=Hearly98&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
@@ -81,7 +81,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/hearly-sebastian-huertas-perez/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Hearly98%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:%20%20Hearly98-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
