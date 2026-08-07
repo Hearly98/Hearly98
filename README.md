@@ -10,8 +10,7 @@
 
 - A passionate Self-taught Front-end developer
 - I dedicate my spare time to practicing Judo.
-- Currently, I'm actively learning Web Development independently.
-- I'm currently open to internship or new job opportunities;
+- I'm currently open to new job opportunities;
 
 <br><br>
 
